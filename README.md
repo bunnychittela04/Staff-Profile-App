@@ -1,4 +1,4 @@
-#  Staff Profile Development
+#  Staff Profile Development Form
 
 A responsive, modern multi-step form to create and manage staff profiles, built with React. It collects key employee information across multiple sections and displays a well-organized summary for review. Ideal for HR systems or internal admin dashboards.
 
