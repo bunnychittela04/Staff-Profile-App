@@ -29,7 +29,7 @@ A responsive, modern multi-step form to create and manage staff profiles, built 
 
 ##  Getting Started
 bash
-git clone https://github.com/your-username/staff-profile-form.git
+git clone [https://github.com/your-username/staff-profile-form.git](http://localhost:3000/summary)
 cd staff-profile-form
 npm install
 npm start
