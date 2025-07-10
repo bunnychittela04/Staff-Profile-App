@@ -32,4 +32,4 @@ bash
 npm install
 npm start
 
-Open in Browser:http://localhost:3000/summary
+
