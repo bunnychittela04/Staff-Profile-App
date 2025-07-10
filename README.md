@@ -31,3 +31,5 @@ A responsive, modern multi-step form to create and manage staff profiles, built 
 bash
 npm install
 npm start
+
+Output:http://localhost:3000/summary
