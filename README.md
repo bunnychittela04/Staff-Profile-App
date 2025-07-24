@@ -48,6 +48,7 @@ Captures core employee data.
 
 📸 _Screenshot:_  
 ![Basic Info](./screenshots/basic-info.png)
+<img width="334" height="506" alt="image" src="https://github.com/user-attachments/assets/16d7c55f-9a1d-4ceb-b6c7-010900feb678" />
 
 ---
 
