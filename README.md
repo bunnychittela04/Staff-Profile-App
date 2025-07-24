@@ -36,8 +36,8 @@ Captures core employee data.
 |----------------|------------------------------------|
 | Staff Code      | 1111                               |
 | Full Name       | Amara Ch                           |
-| Email           | amaranageswararaochittela@gmail.com |
-| Phone           | 09392301433                        |
+| Email           | amar123@gmail.com |
+| Phone           | 0123456789                        |
 | Birthday        | 2003-12-02                         |
 | Gender          | Male                               |
 | Workplace       | Andhra Pradesh                     |
