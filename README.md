@@ -32,68 +32,32 @@ A modern, responsive multi-step form built using **React** to collect and manage
 ### 1️⃣ Basic Info
 Captures core employee data.
 
-| Field           | Sample Value                      |
-|----------------|------------------------------------|
-| Staff Code      | 1111                               |
-| Full Name       | Amara Ch                           |
-| Email           | amar123@gmail.com |
-| Phone           | 0123456789                        |
-| Birthday        | 2003-12-02                         |
-| Gender          | Male                               |
-| Workplace       | Andhra Pradesh                     |
-| Status          | Full-time                          |
-| Job Position    | Developer                          |
-| Academic Level  | Junior                             |
-| Hourly Rate     | ₹800                               |
 
-📸 _Screenshot:_  
-![Basic Info](./screenshots/basic-info.png)
-<img width="334" height="506" alt="image" src="https://github.com/user-attachments/assets/16d7c55f-9a1d-4ceb-b6c7-010900feb678" />
+
+📸 _Screenshot:
+<img width="382" height="531" alt="Screenshot 2025-07-24 162648" src="https://github.com/user-attachments/assets/59fd73c1-6951-42bd-b890-ca2df194d763" />
+
 
 ---
 
 ### 2️⃣ Related Details
 Covers personal identification and banking details.
 
-| Field                 | Sample Value                  |
-|----------------------|-------------------------------|
-| Domicile             | Telangana                     |
-| Marital Status       | Single                        |
-| Address              | 123 Street, BLR               |
-| Nation               | India                         |
-| Place of Birth       | Vijayawada, Andhra Pradesh    |
-| Religion             | Hindu                         |
-| Citizen ID           | AADHAR1234567890              |
-| Date of Issue        | 2026-03-01                    |
-| Place of Issue       | Vijayawada                    |
-| Resident             | Yes                           |
-| Bank Account Number  | 123456789012                  |
-| Bank Name            | Indian Bank                   |
-| Account Holder Name  | Amara                         |
-| Personal Tax Code    | PANCODE1234                   |
 
-📸 _Screenshot:_  
-![Related Details](./screenshots/related-details.png)
+📸 _Screenshot:
+<img width="410" height="628" alt="Screenshot 2025-07-24 162537" src="https://github.com/user-attachments/assets/79f7c34a-83f9-4390-a577-8785305ab49a" />
+
+
 
 ---
 
 ### 3️⃣ System & Communication
 Collects internal role, social and communication info.
 
-| Field                  | Sample Value                     |
-|-----------------------|----------------------------------|
-| Role                  | Developer                        |
-| Email Signature       | Regards, Amara Ch                |
-| LinkedIn              | linkedin.com/in/amaranageswara   |
-| Facebook              | facebook.com/amara.ch            |
-| Skype                 | amara.skype                      |
-| EPF Number            | EPF123456                        |
-| Social Security No.   | SSN987654321                     |
-| Twilio Phone          | +91 9876543210                   |
-| WhatsApp Enabled      | Yes                              |
 
 📸 _Screenshot:_  
-![System & Communication](./screenshots/system-communication.png)
+<img width="452" height="524" alt="Screenshot 2025-07-24 162839" src="https://github.com/user-attachments/assets/3eb50a81-7c89-4ea4-acb2-4a0b11475829" />
+
 
 ---
 
@@ -101,7 +65,8 @@ Collects internal role, social and communication info.
 Displays a full, styled summary of the submitted staff profile.
 
 📸 _Screenshot:_  
-![Final Summary](./screenshots/summary-view.png)
+<img width="1913" height="910" alt="image" src="https://github.com/user-attachments/assets/2a2390b1-6088-4cca-9fbd-351d55360f92" />
+
 
 ---
 
