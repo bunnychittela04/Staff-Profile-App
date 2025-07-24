@@ -68,7 +68,5 @@ Displays a full, styled summary of the submitted staff profile.
 <img width="1913" height="910" alt="image" src="https://github.com/user-attachments/assets/2a2390b1-6088-4cca-9fbd-351d55360f92" />
 
 
----
 
-## 📁 Project Structure
 
