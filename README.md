@@ -1,35 +1,64 @@
-#  Staff Profile Development Form
+# 🧑‍💼 Staff Profile Development Form
 
-A responsive, modern multi-step form to create and manage staff profiles, built with React. It collects key employee information across multiple sections and displays a well-organized summary for review. Ideal for HR systems or internal admin dashboards.
+A responsive, modern multi-step form built using **React** to create and manage detailed staff profiles. Ideal for HR systems, onboarding platforms, or internal admin dashboards, this application collects information across multiple steps and presents a professional final summary.
 
+---
 
-##  Features
+## 🚀 Features
 
-- Multi-step form with data persistence across steps
-- Final summary page with professional card layout
-- Clean UI with CSS styling and icons
-- Modular, maintainable component structure
-- Ready for MERN stack integration
+- Multi-step form with data saved across steps
+- Clean and modern UI using CSS Modules
+- Final summary card with profile view
+- Component-based architecture
+- Fully ready for MERN stack integration
 
+---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
-- **Frontend**: React, JSX, CSS Modules
-- **Optional Backend**: Node.js, Express, MongoDB (MERN ready)
-- **State Handling**: Component-level state
+| Layer      | Technology         |
+|------------|--------------------|
+| Frontend   | React, JSX, CSS Modules |
+| Backend    |  Node.js, Express |
+| Database   |  MongoDB |
+| Icons      | React Icons        |
+| Styling    | CSS Modules or Tailwind CSS (optional)
 
+---
 
-##  Form Sections
+## 📋 Form Sections
 
-1. **Basic Info** – Name, email, phone, job position, etc.
-2. **Related Details** – Address, nationality, ID documents
-3. **System & Communication** – Role, EPF, social media links, Twilio info
-4. **Summary View** – Final profile with all merged data in a card layout
+### 1️⃣ Basic Info
+Collects core staff details like name, contact info, position, and job status.
 
+📸 _Screenshot:_  
 
-##  Getting Started
-bash
-npm install
-npm start
+file:///C:/Users/AMARA/Downloads/Basic%20info_1.html
+---
 
+### 2️⃣ Related Details
+Captures ID documents, nationality, address, and banking information.
+
+📸 _Screenshot:_  
+![Related Details](./screenshots/related-details.png)
+
+---
+
+### 3️⃣ System & Communication
+Includes internal system data like EPF, Twilio, and social media links.
+
+📸 _Screenshot:_  
+![System & Communication](./screenshots/system-communication.png)
+
+---
+
+### 4️⃣ Final Summary View
+Displays a clean, printable profile summary card with all merged details.
+
+📸 _Screenshot:_  
+![Final Summary](./screenshots/summary-view.png)
+
+---
+
+## 📁 Project Structure
 
