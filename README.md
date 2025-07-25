@@ -34,7 +34,7 @@ Captures core employee data.
 
 
 
-📸 _Screenshot:
+
 <img width="382" height="531" alt="Screenshot 2025-07-24 162648" src="https://github.com/user-attachments/assets/59fd73c1-6951-42bd-b890-ca2df194d763" />
 
 
@@ -44,7 +44,7 @@ Captures core employee data.
 Covers personal identification and banking details.
 
 
-📸 _Screenshot:
+
 <img width="410" height="628" alt="Screenshot 2025-07-24 162537" src="https://github.com/user-attachments/assets/79f7c34a-83f9-4390-a577-8785305ab49a" />
 
 
@@ -55,7 +55,7 @@ Covers personal identification and banking details.
 Collects internal role, social and communication info.
 
 
-📸 _Screenshot:_  
+
 <img width="452" height="524" alt="Screenshot 2025-07-24 162839" src="https://github.com/user-attachments/assets/3eb50a81-7c89-4ea4-acb2-4a0b11475829" />
 
 
@@ -64,7 +64,7 @@ Collects internal role, social and communication info.
 ### 4️⃣ Final Summary View
 Displays a full, styled summary of the submitted staff profile.
 
-📸 _Screenshot:_  
+ 
 <img width="1913" height="910" alt="image" src="https://github.com/user-attachments/assets/2a2390b1-6088-4cca-9fbd-351d55360f92" />
 
 
